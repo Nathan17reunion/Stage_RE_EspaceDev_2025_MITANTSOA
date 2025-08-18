@@ -1,17 +1,34 @@
-# Stage_RE_EspaceDev_2025_MITANTSOA
-C’est un dépôt de mon travail durant le stage de 5 mois à l’OSU-Réunion, sous la tutelle de l’UMR Espace-Dev.
+# Internship_RE_EspaceDev_2025_MITANTSOA
 
-Mon travail au sein de l'observatoire de la science de l'univers consiste à faire une détection automatique de trait de côte à l'aide de l'outil Shoreline analys and extraction tool à l'échelle de l'ile.
+Welcome to the repository containing the work I completed during my five-month internship at OSU-Réunion, under the supervision of UMR Espace-Dev.
 
-Cet outil est le premier utiliser ici à la réunion mais il y a un doctorant aussi qui travaille avec pour la zone d'étude sur l'île de Madagascar mais pour moi se focalise uniquement pour l'île de la réunion. 
+During this internship, my main task was to implement and evaluate the automatic shoreline detection at the scale of Reunion Island using the Shoreline Analysis and Extraction Tool (SAET).
 
-Le principe est de test si cet outil est adapté au diversité unité géomorphologies et morphologies de littorale de la réunion et prend comme innitiative de recherche pour moi en tant que stagiaire dans une unité de recherche scientifiques. 
+This tool is being used for the first time in this context at Reunion Island to extract time series of shoreline positions from satellite imagery. My work focused on adapting and validating the method to the complex geomorphological settings of the island’s coastline.
 
-Le financement est attribué par le CNRS  avec de somme de 659 par mois comme gratification par mon travail qui est de 35 h / semaine dans le bureau chez l'OSU-Réunion. 
+The internship was funded by CNRS, providing a monthly stipend of 659 euros, for a workload of 35 hours per week at OSU-Réunion.
 
-L'outil est généralement téléchargé directement par téléchargement via github disponible ici et de suivre tous les consigne d'installation parce que cet outil n'est pas comme tous les lociels juste d'installer mais suffit d'installer via un commande Bash ou CMD et de créer un environnement virutelle après et commandé par bash ou CMD également aussi. 
+SAET is accessible via GitHub and requires a specific installation process involving Bash or CMD commands and the creation of virtual environments, as detailed in this repository.
 
-La problèmatique se répose sur la Comment valider la série temporelle des traits de côte extraits automatiquement par l’outil SAET, afin de garantir la fiabilité et l’utilité de cette série dans l’analyse de la dynamique côtière par télédétection satellitaire?
+The core research question addressed during this internship was:
+How to validate the time series of shoreline positions automatically extracted by SAET to ensure the reliability and usefulness of this data for analyzing coastal dynamics through satellite remote sensing?
 
-Pour répondre ce problèmatique, il suffit d'utiliser aussi l'outil DSAS ou dynamic shoreline analysis system qui peut faire une analyse de l'évolution de la posiont et la tendances d'évolution de la plage au cours du temps. 
+To support this validation, I also applied the Dynamic Shoreline Analysis System (DSAS) to precisely analyze spatial and temporal shoreline changes.
 
+Summary of the work carried out:
+
+    Processing a time series of Sentinel-2 images spanning 2015-2025.
+
+    Extraction and fine calibration of shoreline positions using SAET, tailored to local morphological specificities.
+
+    Spatial validation with high-resolution orthophotos and Pléiades imagery, integrating tidal and wave data.
+
+    Multi-scale analysis of coastal dynamics, highlighting impacts of extreme events such as Cyclone Garance (2025).
+
+    Identification of method limitations and proposals for future improvements, especially in complex sedimentary contexts.
+
+    Prospects for operational, continuous monitoring transferable to other island coastal zones.
+
+This repository provides access to all documents, codes, and data related to this internship project—a first significant scientific contribution intended to support further research and applications.
+
+Feel free to explore the contents, review the results, and follow the methodology to better understand this work.
