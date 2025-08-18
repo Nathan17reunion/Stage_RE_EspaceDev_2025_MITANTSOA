@@ -1,6 +1,4 @@
-# Internship_RE_EspaceDev_2025_MITANTSOA
-
-Welcome to the repository containing the work I completed during my five-month internship at OSU-Réunion, under the supervision of UMR Espace-Dev.
+<p align="center">***Welcome to the repository containing the work I completed during my five-month internship at OSU-Réunion, under the supervision of UMR Espace-Dev.***</p>
 
 During this internship, my main task was to implement and evaluate the automatic shoreline detection at the scale of Reunion Island using the Shoreline Analysis and Extraction Tool (SAET).
 
