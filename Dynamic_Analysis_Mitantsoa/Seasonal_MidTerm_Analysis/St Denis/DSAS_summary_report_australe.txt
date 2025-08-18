@@ -1,0 +1,120 @@
+
+  File name: DSAS_summary_report_20250808_000424.txt
+  Timestamp of rate calculation: 08/08/2025 00:04:24
+  DSAS version: 6.0.170
+  Transects file used to calculate rates: transects_stdenis_20250805_175117.geojson
+  Rate types run: SCE, NSM, EPR, LRR, WLR
+  Shoreline dates used: 2015-10-20T00:00:00, 2016-05-27T00:00:00, 2016-06-06T00:00:00, 2016-06-16T00:00:00, 2016-06-26T00:00:00, 2016-07-06T00:00:00, 2016-07-26T00:00:00, 2016-08-25T00:00:00, 2017-05-22T00:00:00, 2017-06-01T00:00:00, 2017-06-11T00:00:00, 2017-06-21T00:00:00, 2017-06-26T00:00:00, 2017-07-06T00:00:00, 2017-07-11T00:00:00, 2017-07-21T00:00:00, 2017-08-05T00:00:00, 2017-08-10T00:00:00, 2017-08-15T00:00:00, 2017-08-25T00:00:00, 2017-09-04T00:00:00, 2017-09-09T00:00:00, 2017-09-24T00:00:00, 2017-11-03T00:00:00, 2018-05-17T00:00:00, 2018-06-01T00:00:00, 2018-06-11T00:00:00, 2018-06-21T00:00:00, 2018-06-26T00:00:00, 2018-07-01T00:00:00, 2018-07-06T00:00:00, 2018-07-11T00:00:00, 2018-07-16T00:00:00, 2018-07-31T00:00:00, 2018-08-05T00:00:00, 2018-08-10T00:00:00, 2018-08-25T00:00:00, 2018-08-30T00:00:00, 2018-09-19T00:00:00, 2018-09-29T00:00:00, 2018-10-14T00:00:00, 2018-11-03T00:00:00, 2018-11-08T00:00:00, 2019-05-12T00:00:00, 2019-05-27T00:00:00, 2019-06-01T00:00:00, 2019-06-11T00:00:00, 2019-06-16T00:00:00, 2019-06-21T00:00:00, 2019-07-01T00:00:00, 2019-07-06T00:00:00, 2019-07-11T00:00:00, 2019-08-10T00:00:00, 2019-08-15T00:00:00, 2019-10-04T00:00:00, 2019-10-14T00:00:00, 2019-10-24T00:00:00, 2019-10-29T00:00:00, 2019-11-03T00:00:00, 2019-11-08T00:00:00, 2020-05-06T00:00:00, 2020-05-31T00:00:00, 2020-06-15T00:00:00, 2020-06-30T00:00:00, 2020-07-10T00:00:00, 2020-08-19T00:00:00, 2020-08-24T00:00:00, 2020-08-29T00:00:00, 2020-09-08T00:00:00, 2020-09-23T00:00:00, 2020-10-08T00:00:00, 2020-10-18T00:00:00, 2021-05-11T00:00:00, 2021-05-21T00:00:00, 2021-05-26T00:00:00, 2021-05-31T00:00:00, 2021-06-10T00:00:00, 2021-06-20T00:00:00, 2021-06-25T00:00:00, 2021-06-30T00:00:00, 2021-07-05T00:00:00, 2021-07-15T00:00:00, 2021-07-20T00:00:00, 2021-08-14T00:00:00, 2021-09-08T00:00:00, 2021-09-18T00:00:00, 2021-09-28T00:00:00, 2021-10-18T00:00:00, 2021-10-23T00:00:00, 2021-10-28T00:00:00, 2021-11-07T00:00:00, 2021-11-12T00:00:00, 2022-05-01T00:00:00, 2022-05-06T00:00:00, 2022-05-21T00:00:00, 2022-05-26T00:00:00, 2022-05-31T00:00:00, 2022-06-05T00:00:00, 2022-06-30T00:00:00, 2022-07-05T00:00:00, 2022-07-10T00:00:00, 2022-07-25T00:00:00, 2022-08-09T00:00:00, 2022-08-24T00:00:00, 2022-10-03T00:00:00, 2022-10-08T00:00:00, 2022-11-07T00:00:00, 2022-11-12T00:00:00, 2023-05-01T00:00:00, 2023-05-11T00:00:00, 2023-05-21T00:00:00, 2023-05-31T00:00:00, 2023-06-10T00:00:00, 2023-06-30T00:00:00, 2023-07-05T00:00:00, 2023-07-10T00:00:00, 2023-07-25T00:00:00, 2023-07-30T00:00:00, 2023-08-09T00:00:00, 2023-08-14T00:00:00, 2023-08-19T00:00:00, 2023-08-24T00:00:00, 2023-09-03T00:00:00, 2023-09-08T00:00:00, 2023-09-23T00:00:00, 2023-10-08T00:00:00, 2023-10-18T00:00:00, 2023-10-23T00:00:00, 2024-05-05T00:00:00, 2024-05-10T00:00:00, 2024-06-04T00:00:00, 2024-06-09T00:00:00, 2024-06-19T00:00:00, 2024-06-24T00:00:00, 2024-07-09T00:00:00, 2024-07-19T00:00:00, 2024-07-29T00:00:00, 2024-08-08T00:00:00, 2024-08-18T00:00:00, 2024-08-23T00:00:00, 2024-09-22T00:00:00, 2024-10-17T00:00:00, 2024-11-06T00:00:00, 2024-11-11T00:00:00, 2025-05-05T00:00:00, 2025-05-12T00:00:00, 2025-05-20T00:00:00, 2025-05-25T00:00:00, 2025-05-30T00:00:00, 2025-06-01T00:00:00, 2025-06-04T00:00:00, 2025-06-09T00:00:00, 2025-06-24T00:00:00, 2025-06-29T00:00:00, 2025-07-01T00:00:00
+  Shoreline threshold: 2
+  Confidence Interval (CI) selected: 90.0%
+  Default Uncertainty: 10
+  Transect spacing length: 50
+  Smoothing distance: 500
+  Coordinate system: EPSG:2975 / RGR92 / UTM zone 40S
+
+  All rates reported are in meters/year (m/y), distance values are in meters (m).
+
+  
+  DISTANCE: SCE (Shoreline Change Envelope,  m)
+
+  SCE OVERALL AVERAGES:
+  total number of transects: 108
+  average distance: 30.37
+  maximum distance: 81.96
+  maximum distance transect ID: 7
+  minimum distance: 18.05
+  minimum distance transect ID: 1
+  
+  
+  DISTANCE: NSM (Net Shoreline Movement,  m)
+
+  NSM OVERALL AVERAGES:
+  total number of transects: 108
+  average distance: 0.33
+  number of transects with negative distance: 51
+  percent of all transects that have a negative distance: 47.22%
+  maximum negative distance: -19.90
+  maximum negative distance transect ID: 7
+  average of all negative distances: -6.80
+  number of transects with positive distance: 57
+  percent of all transects that have a positive distance: 52.78%
+  maximum positive distance: 23.91
+  maximum positive distance transect ID: 46
+  average of all positive distances: 6.71
+  
+  
+  RATE: EPR (End Point Rate,  m/yr)
+
+  EPR OVERALL AVERAGES:
+  total number of transects: 108
+  average rate: 0.04
+  average of the confidence intervals associated with rates: 1.52
+  reduced n (number of independent transects): 18.23
+  uncertainty of the average rate using reduced n: 0.36
+  average rate with reduced n uncertainty: 0.04 +/- 0.36
+
+  number of erosional transects: 51
+  percent of all transects that are erosional: 47.22%
+  percent of all transects that have statistically significant erosion: 6.48%
+  maximum value erosion: -2.16
+  maximum value erosion transect ID: 106
+  average of all erosional rates: -0.73
+
+  number of accretional transects: 57
+  percent of all transects that are accretional: 52.78%
+  percent of all transects that have statistically significant accretion: 6.48%
+  maximum value accretion: 2.63
+  maximum value accretion transect ID: 46
+  average of all accretional rates: 0.73
+  
+  
+  RATE: LRR (Linear Regression Rate,  m/yr)
+
+  LRR OVERALL AVERAGES:
+  total number of transects: 108
+  average rate: 0.05
+  average of the confidence intervals associated with rates: 0.35
+  reduced n (number of independent transects): 84.03
+  uncertainty of the average rate using reduced n: 0.04
+  average rate with reduced n uncertainty: 0.05 +/- 0.04
+
+  number of erosional transects: 51
+  percent of all transects that are erosional: 47.22%
+  percent of all transects that have statistically significant erosion: 14.81%
+  maximum value erosion: -0.83
+  maximum value erosion transect ID: 137
+  average of all erosional rates: -0.26
+
+  number of accretional transects: 57
+  percent of all transects that are accretional: 52.78%
+  percent of all transects that have statistically significant accretion: 19.44%
+  maximum value accretion: 2.02
+  maximum value accretion transect ID: 1
+  average of all accretional rates: 0.34
+  
+  
+  RATE: WLR (Weighted Linear Regression,  m/yr)
+
+  WLR OVERALL AVERAGES:
+  total number of transects: 108
+  average rate: 0.05
+  average of the confidence intervals associated with rates: 0.35
+  reduced n (number of independent transects): 84.03
+  uncertainty of the average rate using reduced n: 0.04
+  average rate with reduced n uncertainty: 0.05 +/- 0.04
+
+  number of erosional transects: 51
+  percent of all transects that are erosional: 47.22%
+  percent of all transects that have statistically significant erosion: 14.81%
+  maximum value erosion: -0.83
+  maximum value erosion transect ID: 137
+  average of all erosional rates: -0.26
+
+  number of accretional transects: 57
+  percent of all transects that are accretional: 52.78%
+  percent of all transects that have statistically significant accretion: 19.44%
+  maximum value accretion: 2.02
+  maximum value accretion transect ID: 1
+  average of all accretional rates: 0.34
+  
+  
