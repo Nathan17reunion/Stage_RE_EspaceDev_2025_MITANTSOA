@@ -1,0 +1,120 @@
+
+  File name: DSAS_summary_report_20250805_174746.txt
+  Timestamp of rate calculation: 08/05/2025 17:47:46
+  DSAS version: 6.0.170
+  Transects file used to calculate rates: transects_stpaul_20250805_174714.geojson
+  Rate types run: SCE, NSM, EPR, LRR, WLR
+  Shoreline dates used: 2015-10-20T00:00:00, 2015-11-29T00:00:00, 2016-03-28T00:00:00, 2016-04-07T00:00:00, 2016-04-17T00:00:00, 2016-05-27T00:00:00, 2016-06-06T00:00:00, 2016-06-16T00:00:00, 2016-06-26T00:00:00, 2016-07-06T00:00:00, 2016-07-16T00:00:00, 2016-07-26T00:00:00, 2016-08-25T00:00:00, 2016-10-04T00:00:00, 2016-10-14T00:00:00, 2016-12-13T00:00:00, 2016-12-23T00:00:00, 2017-02-11T00:00:00, 2017-03-03T00:00:00, 2017-04-12T00:00:00, 2017-05-12T00:00:00, 2017-05-22T00:00:00, 2017-06-01T00:00:00, 2017-06-11T00:00:00, 2017-06-21T00:00:00, 2017-06-26T00:00:00, 2017-07-06T00:00:00, 2017-07-11T00:00:00, 2017-07-21T00:00:00, 2017-08-05T00:00:00, 2017-08-10T00:00:00, 2017-08-15T00:00:00, 2017-08-25T00:00:00, 2017-09-04T00:00:00, 2017-09-09T00:00:00, 2017-09-24T00:00:00, 2017-10-09T00:00:00, 2017-11-03T00:00:00, 2017-11-18T00:00:00, 2017-11-28T00:00:00, 2017-12-08T00:00:00, 2017-12-23T00:00:00, 2018-01-02T00:00:00, 2018-01-22T00:00:00, 2018-02-01T00:00:00, 2018-02-11T00:00:00, 2018-03-13T00:00:00, 2018-03-28T00:00:00, 2018-04-02T00:00:00, 2018-04-07T00:00:00, 2018-04-12T00:00:00, 2018-05-17T00:00:00, 2018-06-01T00:00:00, 2018-06-11T00:00:00, 2018-06-16T00:00:00, 2018-06-21T00:00:00, 2018-06-26T00:00:00, 2018-07-01T00:00:00, 2018-07-06T00:00:00, 2018-07-11T00:00:00, 2018-07-16T00:00:00, 2018-07-31T00:00:00, 2018-08-05T00:00:00, 2018-08-10T00:00:00, 2018-08-25T00:00:00, 2018-08-30T00:00:00, 2018-09-19T00:00:00, 2018-09-29T00:00:00, 2018-10-14T00:00:00, 2018-11-03T00:00:00, 2018-11-08T00:00:00, 2018-12-03T00:00:00, 2018-12-08T00:00:00, 2018-12-13T00:00:00, 2018-12-18T00:00:00, 2018-12-28T00:00:00, 2019-01-12T00:00:00, 2019-02-11T00:00:00, 2019-02-21T00:00:00, 2019-03-03T00:00:00, 2019-03-13T00:00:00, 2019-03-28T00:00:00, 2019-04-27T00:00:00, 2019-05-02T00:00:00, 2019-05-12T00:00:00, 2019-05-27T00:00:00, 2019-06-01T00:00:00, 2019-06-11T00:00:00, 2019-06-16T00:00:00, 2019-06-21T00:00:00, 2019-07-01T00:00:00, 2019-07-06T00:00:00, 2019-07-11T00:00:00, 2019-08-05T00:00:00, 2019-08-10T00:00:00, 2019-08-15T00:00:00, 2019-09-29T00:00:00, 2019-10-04T00:00:00, 2019-10-14T00:00:00, 2019-10-24T00:00:00, 2019-11-03T00:00:00, 2019-11-08T00:00:00, 2019-11-28T00:00:00, 2019-12-03T00:00:00, 2019-12-13T00:00:00, 2019-12-18T00:00:00, 2020-01-12T00:00:00, 2020-01-27T00:00:00, 2020-02-01T00:00:00, 2020-03-22T00:00:00, 2020-04-01T00:00:00, 2020-04-06T00:00:00, 2020-04-16T00:00:00, 2020-04-26T00:00:00, 2020-05-06T00:00:00, 2020-05-31T00:00:00, 2020-06-15T00:00:00, 2020-06-30T00:00:00, 2020-07-10T00:00:00, 2020-08-19T00:00:00, 2020-08-24T00:00:00, 2020-08-29T00:00:00, 2020-09-08T00:00:00, 2020-09-23T00:00:00, 2020-10-08T00:00:00, 2020-10-18T00:00:00, 2020-11-02T00:00:00, 2020-12-07T00:00:00, 2020-12-12T00:00:00, 2020-12-22T00:00:00, 2021-01-01T00:00:00, 2021-01-16T00:00:00, 2021-01-26T00:00:00, 2021-01-31T00:00:00, 2021-02-10T00:00:00, 2021-02-20T00:00:00, 2021-02-25T00:00:00, 2021-03-02T00:00:00, 2021-03-12T00:00:00, 2021-03-17T00:00:00, 2021-03-22T00:00:00, 2021-04-01T00:00:00, 2021-04-06T00:00:00, 2021-05-01T00:00:00, 2021-05-11T00:00:00, 2021-05-21T00:00:00, 2021-05-26T00:00:00, 2021-05-31T00:00:00, 2021-06-10T00:00:00, 2021-06-20T00:00:00, 2021-06-25T00:00:00, 2021-06-30T00:00:00, 2021-07-05T00:00:00, 2021-07-15T00:00:00, 2021-07-20T00:00:00, 2021-08-14T00:00:00, 2021-09-08T00:00:00, 2021-09-18T00:00:00, 2021-09-28T00:00:00, 2021-10-18T00:00:00, 2021-10-28T00:00:00, 2021-11-07T00:00:00, 2021-11-12T00:00:00, 2021-11-17T00:00:00, 2021-12-17T00:00:00, 2022-01-26T00:00:00, 2022-02-10T00:00:00, 2022-02-15T00:00:00, 2022-03-12T00:00:00, 2022-04-11T00:00:00, 2022-04-21T00:00:00, 2022-04-26T00:00:00, 2022-05-01T00:00:00, 2022-05-06T00:00:00, 2022-05-21T00:00:00, 2022-05-26T00:00:00, 2022-05-31T00:00:00, 2022-06-05T00:00:00, 2022-06-30T00:00:00, 2022-07-05T00:00:00, 2022-07-10T00:00:00, 2022-07-25T00:00:00, 2022-08-09T00:00:00, 2022-08-24T00:00:00, 2022-10-03T00:00:00, 2022-10-08T00:00:00, 2022-11-12T00:00:00, 2022-11-17T00:00:00, 2022-11-27T00:00:00, 2022-12-02T00:00:00, 2022-12-07T00:00:00, 2022-12-17T00:00:00, 2022-12-22T00:00:00, 2022-12-27T00:00:00, 2023-01-01T00:00:00, 2023-01-16T00:00:00, 2023-02-10T00:00:00, 2023-02-15T00:00:00, 2023-02-25T00:00:00, 2023-03-02T00:00:00, 2023-03-17T00:00:00, 2023-03-27T00:00:00, 2023-04-06T00:00:00, 2023-04-16T00:00:00, 2023-04-21T00:00:00, 2023-05-01T00:00:00, 2023-05-11T00:00:00, 2023-05-21T00:00:00, 2023-05-31T00:00:00, 2023-06-10T00:00:00, 2023-06-30T00:00:00, 2023-07-05T00:00:00, 2023-07-10T00:00:00, 2023-07-25T00:00:00, 2023-07-30T00:00:00, 2023-08-09T00:00:00, 2023-08-14T00:00:00, 2023-08-19T00:00:00, 2023-08-24T00:00:00, 2023-09-03T00:00:00, 2023-09-08T00:00:00, 2023-09-23T00:00:00, 2023-10-08T00:00:00, 2023-10-18T00:00:00, 2023-10-23T00:00:00, 2023-12-17T00:00:00, 2023-12-22T00:00:00, 2023-12-27T00:00:00, 2024-01-11T00:00:00, 2024-01-31T00:00:00, 2024-02-05T00:00:00, 2024-02-15T00:00:00, 2024-03-01T00:00:00, 2024-03-21T00:00:00, 2024-04-05T00:00:00, 2024-04-10T00:00:00, 2024-04-25T00:00:00, 2024-05-05T00:00:00, 2024-05-10T00:00:00, 2024-06-04T00:00:00, 2024-06-09T00:00:00, 2024-06-19T00:00:00, 2024-06-24T00:00:00, 2024-07-09T00:00:00, 2024-07-19T00:00:00, 2024-07-24T00:00:00, 2024-07-29T00:00:00, 2024-08-08T00:00:00, 2024-08-13T00:00:00, 2024-08-18T00:00:00, 2024-08-23T00:00:00, 2024-09-22T00:00:00, 2024-10-17T00:00:00, 2024-11-06T00:00:00, 2024-11-11T00:00:00, 2024-11-16T00:00:00, 2024-12-06T00:00:00, 2024-12-26T00:00:00, 2024-12-31T00:00:00, 2025-01-05T00:00:00, 2025-01-15T00:00:00, 2025-01-25T00:00:00, 2025-01-30T00:00:00, 2025-02-14T00:00:00, 2025-03-06T00:00:00, 2025-03-11T00:00:00, 2025-03-26T00:00:00, 2025-04-05T00:00:00, 2025-04-10T00:00:00, 2025-04-15T00:00:00, 2025-04-20T00:00:00, 2025-04-22T00:00:00, 2025-05-05T00:00:00, 2025-05-12T00:00:00, 2025-05-20T00:00:00, 2025-05-25T00:00:00, 2025-05-30T00:00:00, 2025-06-01T00:00:00, 2025-06-04T00:00:00, 2025-06-09T00:00:00, 2025-06-24T00:00:00, 2025-06-29T00:00:00, 2025-07-01T00:00:00
+  Shoreline threshold: 2
+  Confidence Interval (CI) selected: 90.0%
+  Default Uncertainty: 10
+  Transect spacing length: 50
+  Smoothing distance: 500
+  Coordinate system: EPSG:2975 / RGR92 / UTM zone 40S
+
+  All rates reported are in meters/year (m/y), distance values are in meters (m).
+
+  
+  DISTANCE: SCE (Shoreline Change Envelope,  m)
+
+  SCE OVERALL AVERAGES:
+  total number of transects: 203
+  average distance: 46.30
+  maximum distance: 108.01
+  maximum distance transect ID: 28
+  minimum distance: 16.71
+  minimum distance transect ID: 207
+  
+  
+  DISTANCE: NSM (Net Shoreline Movement,  m)
+
+  NSM OVERALL AVERAGES:
+  total number of transects: 203
+  average distance: 3.93
+  number of transects with negative distance: 89
+  percent of all transects that have a negative distance: 43.84%
+  maximum negative distance: -31.31
+  maximum negative distance transect ID: 28
+  average of all negative distances: -12.91
+  number of transects with positive distance: 114
+  percent of all transects that have a positive distance: 56.16%
+  maximum positive distance: 58.54
+  maximum positive distance transect ID: 196
+  average of all positive distances: 17.08
+  
+  
+  RATE: EPR (End Point Rate,  m/yr)
+
+  EPR OVERALL AVERAGES:
+  total number of transects: 203
+  average rate: 0.44
+  average of the confidence intervals associated with rates: 1.48
+  reduced n (number of independent transects): 10.92
+  uncertainty of the average rate using reduced n: 0.45
+  average rate with reduced n uncertainty: 0.44 +/- 0.45
+
+  number of erosional transects: 89
+  percent of all transects that are erosional: 43.84%
+  percent of all transects that have statistically significant erosion: 18.72%
+  maximum value erosion: -3.23
+  maximum value erosion transect ID: 28
+  average of all erosional rates: -1.33
+
+  number of accretional transects: 114
+  percent of all transects that are accretional: 56.16%
+  percent of all transects that have statistically significant accretion: 30.05%
+  maximum value accretion: 6.33
+  maximum value accretion transect ID: 196
+  average of all accretional rates: 1.82
+  
+  
+  RATE: LRR (Linear Regression Rate,  m/yr)
+
+  LRR OVERALL AVERAGES:
+  total number of transects: 203
+  average rate: -0.03
+  average of the confidence intervals associated with rates: 0.38
+  reduced n (number of independent transects): 26.76
+  uncertainty of the average rate using reduced n: 0.07
+  average rate with reduced n uncertainty: -0.03 +/- 0.07
+
+  number of erosional transects: 103
+  percent of all transects that are erosional: 50.74%
+  percent of all transects that have statistically significant erosion: 42.36%
+  maximum value erosion: -1.70
+  maximum value erosion transect ID: 90
+  average of all erosional rates: -0.74
+
+  number of accretional transects: 100
+  percent of all transects that are accretional: 49.26%
+  percent of all transects that have statistically significant accretion: 37.93%
+  maximum value accretion: 2.54
+  maximum value accretion transect ID: 203
+  average of all accretional rates: 0.70
+  
+  
+  RATE: WLR (Weighted Linear Regression,  m/yr)
+
+  WLR OVERALL AVERAGES:
+  total number of transects: 203
+  average rate: -0.03
+  average of the confidence intervals associated with rates: 0.38
+  reduced n (number of independent transects): 26.76
+  uncertainty of the average rate using reduced n: 0.07
+  average rate with reduced n uncertainty: -0.03 +/- 0.07
+
+  number of erosional transects: 103
+  percent of all transects that are erosional: 50.74%
+  percent of all transects that have statistically significant erosion: 42.36%
+  maximum value erosion: -1.70
+  maximum value erosion transect ID: 90
+  average of all erosional rates: -0.74
+
+  number of accretional transects: 100
+  percent of all transects that are accretional: 49.26%
+  percent of all transects that have statistically significant accretion: 37.93%
+  maximum value accretion: 2.54
+  maximum value accretion transect ID: 203
+  average of all accretional rates: 0.70
+  
+  
