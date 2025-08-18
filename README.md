@@ -38,4 +38,8 @@ At the bottom of this page, you will also find an organizational chart illustrat
 ## References and Tools
 
 The references and tools related to this work are available here:  
-[Reference file (reference.bib)](https://github.com/Nathan17reunion/Stage_RE_EspaceDev_2025_MITANTSOA/blob/main/Stage_RE_EspaceDev_2025/reference.bib) | [Work report (PDF)](https://github.com/Nathan17reunion/Stage_RE_EspaceDev_2025_MITANTSOA/blob/main/Stage_RE_EspaceDev_2025/Rapport_Master_RNETGT_LGET_UnivReunion_UnivTana_MitantsoaNyHajaHarilala_2025_protected_compressed.pdf)
+[Reference file (reference.bib)](https://github.com/Nathan17reunion/Stage_RE_EspaceDev_2025_MITANTSOA/blob/main/Stage_RE_EspaceDev_2025/reference.bib) | [Work report (PDF)](https://github.com/Nathan17reunion/Stage_RE_EspaceDev_2025_MITANTSOA/blob/main/Stage_RE_EspaceDev_2025/Rapport_Master_RNETGT_LGET_UnivReunion_UnivTana_MitantsoaNyHajaHarilala_2025_protected_compressed.pdf) 
+
+Or scan the QR code below to access these documents directly on your device:
+
+![QR Code for accessing stage documents](https://github.com/Nathan17reunion/Stage_RE_EspaceDev_2025_MITANTSOA/blob/main/Figure/qr_code_stageMitantsoa.png)
