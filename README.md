@@ -6,10 +6,10 @@ This tool is being used for the first time in this context at Reunion Island to 
 
 The internship was funded by CNRS, providing a monthly stipend of 659 euros, for a workload of 35 hours per week at ([**OSU-Reunion**](https://www.osureunion.fr/)).
 
-SAET is accessible via GitHub and requires a specific installation process involving Bash or CMD commands and the creation of virtual environments, as detailed in this repository.
+[**SAET**](https://github.com/jpalomav/SAET_master) is accessible via GitHub and requires a specific installation process involving Bash or CMD commands and the creation of virtual environments, as detailed in this repository.
 
 The core research question addressed during this internship was:
-How to validate the time series of shoreline positions automatically extracted by SAET to ensure the reliability and usefulness of this data for analyzing coastal dynamics through satellite remote sensing?
+How to validate the time series of shoreline positions automatically extracted by [**SAET**](https://github.com/jpalomav/SAET_master) to ensure the reliability and usefulness of this data for analyzing coastal dynamics through satellite remote sensing?
 
 To support this validation, I also applied the [**Dynamic Shoreline Analysis System**]([https://github.com/jpalomav/SAET_master](https://www.usgs.gov/software/digital-shoreline-analysis-system-version-6)) (DSAS) to precisely analyze spatial and temporal shoreline changes. 
 
