@@ -1,0 +1,120 @@
+
+  File name: DSAS_summary_report_20250807_160410.txt
+  Timestamp of rate calculation: 08/07/2025 16:04:10
+  DSAS version: 6.0.170
+  Transects file used to calculate rates: transects_stdenis_20250805_175117.geojson
+  Rate types run: SCE, NSM, EPR, LRR, WLR
+  Shoreline dates used: 2023-07-05T00:00:00, 2023-07-10T00:00:00, 2023-07-25T00:00:00, 2023-07-30T00:00:00, 2023-08-09T00:00:00, 2023-08-14T00:00:00, 2023-08-19T00:00:00, 2023-08-24T00:00:00, 2023-09-03T00:00:00, 2023-09-08T00:00:00, 2023-09-23T00:00:00, 2023-10-08T00:00:00, 2023-10-18T00:00:00, 2023-10-23T00:00:00, 2023-12-17T00:00:00, 2023-12-22T00:00:00, 2023-12-27T00:00:00, 2024-01-11T00:00:00, 2024-01-31T00:00:00, 2024-02-05T00:00:00, 2024-02-15T00:00:00, 2024-03-01T00:00:00, 2024-03-21T00:00:00, 2024-04-05T00:00:00, 2024-04-10T00:00:00, 2024-04-25T00:00:00, 2024-05-05T00:00:00, 2024-05-10T00:00:00, 2024-06-04T00:00:00, 2024-06-09T00:00:00, 2024-06-19T00:00:00, 2024-06-24T00:00:00
+  Shoreline threshold: 2
+  Confidence Interval (CI) selected: 90.0%
+  Default Uncertainty: 10
+  Transect spacing length: 50
+  Smoothing distance: 500
+  Coordinate system: EPSG:2975 / RGR92 / UTM zone 40S
+
+  All rates reported are in meters/year (m/y), distance values are in meters (m).
+
+  
+  DISTANCE: SCE (Shoreline Change Envelope,  m)
+
+  SCE OVERALL AVERAGES:
+  total number of transects: 108
+  average distance: 20.02
+  maximum distance: 48.39
+  maximum distance transect ID: 137
+  minimum distance: 4.98
+  minimum distance transect ID: 19
+  
+  
+  DISTANCE: NSM (Net Shoreline Movement,  m)
+
+  NSM OVERALL AVERAGES:
+  total number of transects: 108
+  average distance: 3.21
+  number of transects with negative distance: 31
+  percent of all transects that have a negative distance: 28.70%
+  maximum negative distance: -8.74
+  maximum negative distance transect ID: 42
+  average of all negative distances: -2.94
+  number of transects with positive distance: 77
+  percent of all transects that have a positive distance: 71.30%
+  maximum positive distance: 28.25
+  maximum positive distance transect ID: 6
+  average of all positive distances: 5.68
+  
+  
+  RATE: EPR (End Point Rate,  m/yr)
+
+  EPR OVERALL AVERAGES:
+  total number of transects: 108
+  average rate: 3.93
+  average of the confidence intervals associated with rates: 15.93
+  reduced n (number of independent transects): 63.91
+  uncertainty of the average rate using reduced n: 1.99
+  average rate with reduced n uncertainty: 3.93 +/- 1.99
+
+  number of erosional transects: 31
+  percent of all transects that are erosional: 28.70%
+  percent of all transects that have statistically significant erosion: 0.00%
+  maximum value erosion: -9.68
+  maximum value erosion transect ID: 42
+  average of all erosional rates: -3.15
+
+  number of accretional transects: 77
+  percent of all transects that are accretional: 71.30%
+  percent of all transects that have statistically significant accretion: 3.70%
+  maximum value accretion: 44.24
+  maximum value accretion transect ID: 1
+  average of all accretional rates: 6.78
+  
+  
+  RATE: LRR (Linear Regression Rate,  m/yr)
+
+  LRR OVERALL AVERAGES:
+  total number of transects: 108
+  average rate: 6.78
+  average of the confidence intervals associated with rates: 8.40
+  reduced n (number of independent transects): 76.65
+  uncertainty of the average rate using reduced n: 0.96
+  average rate with reduced n uncertainty: 6.78 +/- 0.96
+
+  number of erosional transects: 17
+  percent of all transects that are erosional: 15.74%
+  percent of all transects that have statistically significant erosion: 0.93%
+  maximum value erosion: -4.86
+  maximum value erosion transect ID: 45
+  average of all erosional rates: -1.42
+
+  number of accretional transects: 91
+  percent of all transects that are accretional: 84.26%
+  percent of all transects that have statistically significant accretion: 50.93%
+  maximum value accretion: 35.77
+  maximum value accretion transect ID: 1
+  average of all accretional rates: 8.31
+  
+  
+  RATE: WLR (Weighted Linear Regression,  m/yr)
+
+  WLR OVERALL AVERAGES:
+  total number of transects: 108
+  average rate: 6.78
+  average of the confidence intervals associated with rates: 8.40
+  reduced n (number of independent transects): 76.65
+  uncertainty of the average rate using reduced n: 0.96
+  average rate with reduced n uncertainty: 6.78 +/- 0.96
+
+  number of erosional transects: 17
+  percent of all transects that are erosional: 15.74%
+  percent of all transects that have statistically significant erosion: 0.93%
+  maximum value erosion: -4.86
+  maximum value erosion transect ID: 45
+  average of all erosional rates: -1.42
+
+  number of accretional transects: 91
+  percent of all transects that are accretional: 84.26%
+  percent of all transects that have statistically significant accretion: 50.93%
+  maximum value accretion: 35.77
+  maximum value accretion transect ID: 1
+  average of all accretional rates: 8.31
+  
+  
