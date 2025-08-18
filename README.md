@@ -32,3 +32,5 @@ This repository provides access to all documents, codes, and data related to thi
 Feel free to explore the contents, review the results, and follow the methodology to better understand this work.
 
 At the bottom of this page, you will also find an organizational chart illustrating the workflow and structure of this internship project.
+
+![Organigramme](https://github.com/Nathan17reunion/Stage_RE_EspaceDev_2025_MITANTSOA/blob/main/Figure/Organigramme.jpg)
