@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://github.com/Nathan17reunion/PyDSAS_Reunion_Island/blob/main/images/fac_sciences_univ_reunion.png" alt="Logo 6" width="180"/>
-  <img src="https://github.com/Nathan17reunion/Stage_RE_EspaceDev_2025_MITANTSOA/blob/main/Figure/logo-osur-270.png" alt="Logo 6" width="150"/>
+  <img src="https://github.com/Nathan17reunion/Stage_RE_EspaceDev_2025_MITANTSOA/blob/main/Figure/logo-osur-270.png" alt="Logo 6" width="120"/>
   <img src="https://github.com/Nathan17reunion/Stage_RE_EspaceDev_2025_MITANTSOA/blob/main/Figure/Logo-Espace-Dev-coul.txt-copie.png" alt="Logo 6" width="180"/>
   <img src="https://github.com/Nathan17reunion/Stage_RE_EspaceDev_2025_MITANTSOA/blob/main/Figure/Logo-Master_RNET.png" alt="Logo 6" width="220"/>
   <img src="https://github.com/Nathan17reunion/Stage_RE_EspaceDev_2025_MITANTSOA/blob/main/Figure/Logo_NoutBord.png" alt="Logo 6" width="80"/>
