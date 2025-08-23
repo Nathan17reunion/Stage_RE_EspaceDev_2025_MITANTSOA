@@ -1,37 +1,35 @@
 <p align="center">***Welcome to the repository containing the work I completed during my five-month internship at OSU-Réunion, under the supervision of UMR Espace-Dev.***</p>
 
-During this internship, my main task was to implement and evaluate the automatic shoreline detection at the scale of Reunion Island using the [**Shoreline Analysis and Extraction Tool**](https://github.com/jpalomav/SAET_master) (SAET).
+During this internship, my primary responsibility was to implement and evaluate an automatic shoreline detection method at the scale of Réunion Island using the open-source [**Shoreline Analysis and Extraction Tool**](https://github.com/jpalomav/SAET_master) (SAET). This project marks the first application of SAET in this specific geomorphological context, aiming to extract time series of shoreline positions from satellite imagery and adapt the methodology to the island’s complex coastal environments.
 
-This tool is being used for the first time in this context at Reunion Island to extract time series of shoreline positions from satellite imagery. My work focused on adapting and validating the method to the complex geomorphological settings of the island’s coastline.
+The internship was funded by CNRS, providing a monthly stipend of 659 euros for a 35-hour work week at [**OSU-Reunion**](https://www.osureunion.fr/).
 
-The internship was funded by CNRS, providing a monthly stipend of 659 euros, for a workload of 35 hours per week at ([**OSU-Reunion**](https://www.osureunion.fr/)).
+[**SAET**](https://github.com/jpalomav/SAET_master) is available on GitHub and involves a dedicated setup process using Bash or CMD commands and virtual environment configuration, all detailed in this repository.
 
-[**SAET**](https://github.com/jpalomav/SAET_master) is accessible via GitHub and requires a specific installation process involving Bash or CMD commands and the creation of virtual environments, as detailed in this repository.
+The central research question guiding this work was: **How can we validate the automatically extracted time series of shoreline positions from [**SAET**](https://github.com/jpalomav/SAET_master) to ensure data reliability and its practical use for analyzing coastal dynamics via satellite remote sensing ?**
 
-The core research question addressed during this internship was:
-How to validate the time series of shoreline positions automatically extracted by [**SAET**](https://github.com/jpalomav/SAET_master) to ensure the reliability and usefulness of this data for analyzing coastal dynamics through satellite remote sensing?
-
-To support this validation, I also applied the [**Dynamic Shoreline Analysis System**]([https://github.com/jpalomav/SAET_master](https://www.usgs.gov/software/digital-shoreline-analysis-system-version-6)) (DSAS) to precisely analyze spatial and temporal shoreline changes. 
+To complement this validation, I employed the [**Dynamic Shoreline Analysis System**](https://www.usgs.gov/software/digital-shoreline-analysis-system-version-6) (DSAS), which enables precise spatial and temporal quantification of shoreline changes. 
 
 Summary of the work carried out:
 
-    Processing a time series of Sentinel-2 images spanning 2015-2025.
+    Processing a comprehensive time series of Sentinel-2 satellite images spanning 2015 to 2025.
 
-    Extraction and fine calibration of shoreline positions using [**SAET**](https://github.com/jpalomav/SAET_master), tailored to local morphological specificities.
+    Extraction and fine calibration of shoreline positions using the [**Shoreline Analysis and Extraction Tool**](https://github.com/jpalomav/SAET_master) (SAET), specifically adapted to the island’s complex morphological features.
 
-    Spatial validation with high-resolution orthophotos and Pléiades imagery, integrating tidal and wave data.
+    Spatial validation of results through comparison with high-resolution orthophotos and Pléiades imagery, incorporating tidal and wave data for enhanced accuracy.
 
-    Multi-scale analysis of coastal dynamics, highlighting impacts of extreme events such as Cyclone Garance (2025).
+    Multi-scale analysis of coastal dynamics over the decade, emphasizing the impact of extreme events such as Cyclone Garance (2025/02/28).
 
-    Identification of method limitations and proposals for future improvements, especially in complex sedimentary contexts.
+    Identification of methodological limitations and recommendations for future enhancements, particularly in challenging sedimentary environments.
 
-    Prospects for operational, continuous monitoring transferable to other island coastal zones.
+    Prospects for operational and continuous shoreline monitoring workflows, readily transferable to other island coastal systems. 
 
-This repository provides access to all documents, codes, and data related to this internship project—a first significant scientific contribution intended to support further research and applications.
+This repository provides access to all documents, codes, and datasets related to this internship project a significant scientific contribution intended to support ongoing research and future applications. The full report and presentation can be downloaded via this [**link**](https://mega.nz/folder/SGBX1DIK#JmdTDUBbFpzbLTv1o2Rgdw). For collaboration and continuous updates, a live version of the report is also available [**here**](https://docs.google.com/document/d/190akoMxUDB6AHJ9KRo8jI1dy8AUbmUYjJdoy6uzg9Jw/edit?usp=sharing).
 
-Feel free to explore the contents, review the results, and follow the methodology to better understand this work.
+Please note that this is not an official publication, as the project ownership remains with the research institution. My role during the internship was to analyze the data and present findings, which may occasionally diverge from previous works—this is the nature of scientific research, where new questions and challenges often emerge from unexpected results. The materials shared here reflect this exploratory research process and are open for scrutiny, discussion, and further investigation. Your interest, feedback, and collaboration are warmly welcomed to advance our collective understanding.
 
-At the bottom of this page, you will also find an organizational chart illustrating the workflow and structure of this internship project.
+Feel free to explore the contents, review the results, and follow the methodology to gain a deeper understanding of this work.
+At the bottom of this page, you will find an organizational chart that illustrates the workflow and structure of the internship project, providing a clear overview of the research process.
 
 ![Organigramme](https://github.com/Nathan17reunion/Stage_RE_EspaceDev_2025_MITANTSOA/blob/main/Figure/Organigramme.jpg)
 
@@ -39,7 +37,3 @@ At the bottom of this page, you will also find an organizational chart illustrat
 
 The references and tools related to this work are available here:  
 [Reference file (reference.bib)](https://github.com/Nathan17reunion/Stage_RE_EspaceDev_2025_MITANTSOA/blob/main/Stage_RE_EspaceDev_2025/reference.bib) | [Work report (PDF)](https://github.com/Nathan17reunion/Stage_RE_EspaceDev_2025_MITANTSOA/blob/main/Stage_RE_EspaceDev_2025/Rapport_Master_RNETGT_LGET_UnivReunion_UnivTana_MitantsoaNyHajaHarilala_2025_protected_compressed.pdf) 
-
-Or scan the QR code below to access these documents directly on your device:
-
-![QR Code for accessing stage documents](https://github.com/Nathan17reunion/Stage_RE_EspaceDev_2025_MITANTSOA/blob/main/Figure/qr_code_stageMitantsoa.png)
