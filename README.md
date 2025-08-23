@@ -1,13 +1,13 @@
 <p align="center"><strong>Welcome to the repository showcasing the outcomes of my five-month internship at OSU-Réunion, conducted under the expert supervision of UMR 228 - Espace-Dev.</strong></p>
 
 <p align="center">
-  <img src="https://github.com/Nathan17reunion/PyDSAS_Reunion_Island/blob/main/images/univ_reunion.png" alt="Logo 5" width="180"/>
   <img src="https://github.com/Nathan17reunion/PyDSAS_Reunion_Island/blob/main/images/fac_sciences_univ_reunion.png" alt="Logo 6" width="180"/>
   <img src="https://raw.githubusercontent.com/Nathan17reunion/PyDSAS_Reunion_Island/main/images/images.jpg" alt="Logo 6" width="60"/>
   <img src="https://raw.githubusercontent.com/Nathan17reunion/PyDSAS_Reunion_Island/main/images/Sans%20titre-1.png" alt="Logo 6" width="180"/>
 </p>
 
 <p align="center">
+  <img src="https://github.com/Nathan17reunion/PyDSAS_Reunion_Island/blob/main/images/univ_reunion.png" alt="Logo 5" width="180"/>
   <img src="https://raw.githubusercontent.com/Nathan17reunion/PyDSAS_Reunion_Island/main/images/Sans%20titre.jpg" alt="Logo 4" width="180"/>
   <img src="https://github.com/Nathan17reunion/PyDSAS_Reunion_Island/blob/main/images/univ_tana.png" alt="Logo 5" width="90"/>
 </p>
