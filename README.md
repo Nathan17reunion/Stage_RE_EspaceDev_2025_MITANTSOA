@@ -1,4 +1,4 @@
-<p align="center"><strong>Welcome to the repository showcasing the outcomes of my five-month internship at OSU-Réunion, conducted under the expert supervision of UMR 228 - Espace-Dev.</strong></p>
+<p align="center"><strong>Welcome to the repository showcasing the outcomes of my five-month internship at OSU-Reunion, conducted under the expert supervision of UMR 228 - ESPACE-Dev.</strong></p>
 
 <p align="center">
   <img src="https://github.com/Nathan17reunion/PyDSAS_Reunion_Island/blob/main/images/fac_sciences_univ_reunion.png" alt="Logo 6" width="180"/>
@@ -29,7 +29,7 @@ Summary of the work carried out:
 
     Processing a comprehensive time series of Sentinel-2 satellite images spanning 2015 to 2025.
 
-    Extraction and fine calibration of shoreline positions using the [**Shoreline Analysis and Extraction Tool**](https://github.com/jpalomav/SAET_master) (SAET), specifically adapted to the island’s complex morphological features.
+    Extraction and fine calibration of shoreline positions using the Shoreline Analysis and Extraction Tool (SAET), specifically adapted to the island’s complex morphological features.
 
     Spatial validation of results through comparison with high-resolution orthophotos and Pléiades imagery, incorporating tidal and wave data for enhanced accuracy.
 
