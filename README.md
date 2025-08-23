@@ -53,6 +53,16 @@ At the bottom of this page, you will find an organizational chart that illustrat
 The references and tools related to this work are available here:  
 [Reference file (reference.bib)](https://github.com/Nathan17reunion/Stage_RE_EspaceDev_2025_MITANTSOA/blob/main/Stage_RE_EspaceDev_2025/reference.bib) || [Work report (PDF)](https://github.com/Nathan17reunion/Stage_RE_EspaceDev_2025_MITANTSOA/blob/main/Stage_RE_EspaceDev_2025/Rapport_Master_RNETGT_LGET_UnivReunion_UnivTana_MitantsoaNyHajaHarilala_2025_protected_compressed.pdf) || [Final Revised and Updated Work Report (PDF)](https://mega.nz/folder/SGBX1DIK#JmdTDUBbFpzbLTv1o2Rgdw)
 
+Access to certain documents is restricted and requires the following activation keys for entry:
+
+    For the updated internship final report:
+    Password: MitantsoaNyhaja#Harilala&&&JonathanRayan!!Rower17015report
+
+    For the presentation slides:
+    Password: MitantsoaNyhaja#Harilala&&&JonathanRayan!!Rower170154presented
+
+These credentials are provided to ensure controlled access to sensitive or preliminary materials. Please use them accordingly to review the documents.
+
 <p align="center">***Thank you for visiting my git!***</p>
 
 > ### **Contact**
