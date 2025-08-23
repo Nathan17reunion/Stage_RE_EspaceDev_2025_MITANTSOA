@@ -2,16 +2,16 @@
 
 <p align="center">
   <img src="https://github.com/Nathan17reunion/PyDSAS_Reunion_Island/blob/main/images/fac_sciences_univ_reunion.png" alt="Logo 6" width="180"/>
-  <img src="https://github.com/Nathan17reunion/Stage_RE_EspaceDev_2025_MITANTSOA/blob/main/Figure/logo-osur-270.png" alt="Logo 6" width="60"/>
+  <img src="https://github.com/Nathan17reunion/Stage_RE_EspaceDev_2025_MITANTSOA/blob/main/Figure/logo-osur-270.png" alt="Logo 6" width="150"/>
   <img src="https://github.com/Nathan17reunion/Stage_RE_EspaceDev_2025_MITANTSOA/blob/main/Figure/Logo-Espace-Dev-coul.txt-copie.png" alt="Logo 6" width="180"/>
-  <img src="https://github.com/Nathan17reunion/Stage_RE_EspaceDev_2025_MITANTSOA/blob/main/Figure/Logo-Master_RNET.png" alt="Logo 6" width="200"/>
-  <img src="https://github.com/Nathan17reunion/Stage_RE_EspaceDev_2025_MITANTSOA/blob/main/Figure/Logo_NoutBord.png" alt="Logo 6" width="60"/>
+  <img src="https://github.com/Nathan17reunion/Stage_RE_EspaceDev_2025_MITANTSOA/blob/main/Figure/Logo-Master_RNET.png" alt="Logo 6" width="220"/>
+  <img src="https://github.com/Nathan17reunion/Stage_RE_EspaceDev_2025_MITANTSOA/blob/main/Figure/Logo_NoutBord.png" alt="Logo 6" width="80"/>
 </p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Nathan17reunion/PyDSAS_Reunion_Island/main/images/Sans%20titre-1.png" alt="Logo 6" width="180"/>
   <img src="https://github.com/Nathan17reunion/PyDSAS_Reunion_Island/blob/main/images/univ_reunion.png" alt="Logo 5" width="180"/>
-  <img src="https://github.com/Nathan17reunion/PyDSAS_Reunion_Island/blob/main/images/univ_tana.png" alt="Logo 5" width="90"/>
+  <img src="https://github.com/Nathan17reunion/PyDSAS_Reunion_Island/blob/main/images/univ_tana.png" alt="Logo 5" width="80"/>
   <img src="https://raw.githubusercontent.com/Nathan17reunion/PyDSAS_Reunion_Island/main/images/Sans%20titre.jpg" alt="Logo 4" width="100"/>
 </p>
 
