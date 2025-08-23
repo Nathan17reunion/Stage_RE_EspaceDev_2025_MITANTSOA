@@ -1,4 +1,16 @@
-<p align="center">***Welcome to the repository containing the work I completed during my five-month internship at OSU-Réunion, under the supervision of UMR Espace-Dev.***</p>
+<p align="center"><strong>Welcome to the repository showcasing the outcomes of my five-month internship at OSU-Réunion, conducted under the expert supervision of UMR 228 - Espace-Dev.</strong></p>
+
+<p align="center">
+  <img src="https://github.com/Nathan17reunion/PyDSAS_Reunion_Island/blob/main/images/univ_reunion.png" alt="Logo 5" width="180"/>
+  <img src="https://github.com/Nathan17reunion/PyDSAS_Reunion_Island/blob/main/images/fac_sciences_univ_reunion.png" alt="Logo 6" width="180"/>
+  <img src="https://raw.githubusercontent.com/Nathan17reunion/PyDSAS_Reunion_Island/main/images/images.jpg" alt="Logo 6" width="60"/>
+  <img src="https://raw.githubusercontent.com/Nathan17reunion/PyDSAS_Reunion_Island/main/images/Sans%20titre-1.png" alt="Logo 6" width="180"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Nathan17reunion/PyDSAS_Reunion_Island/main/images/Sans%20titre.jpg" alt="Logo 4" width="180"/>
+  <img src="https://github.com/Nathan17reunion/PyDSAS_Reunion_Island/blob/main/images/univ_tana.png" alt="Logo 5" width="90"/>
+</p>
 
 During this internship, my primary responsibility was to implement and evaluate an automatic shoreline detection method at the scale of Réunion Island using the open-source [**Shoreline Analysis and Extraction Tool**](https://github.com/jpalomav/SAET_master) (SAET). This project marks the first application of SAET in this specific geomorphological context, aiming to extract time series of shoreline positions from satellite imagery and adapt the methodology to the island’s complex coastal environments.
 
@@ -37,3 +49,17 @@ At the bottom of this page, you will find an organizational chart that illustrat
 
 The references and tools related to this work are available here:  
 [Reference file (reference.bib)](https://github.com/Nathan17reunion/Stage_RE_EspaceDev_2025_MITANTSOA/blob/main/Stage_RE_EspaceDev_2025/reference.bib) | [Work report (PDF)](https://github.com/Nathan17reunion/Stage_RE_EspaceDev_2025_MITANTSOA/blob/main/Stage_RE_EspaceDev_2025/Rapport_Master_RNETGT_LGET_UnivReunion_UnivTana_MitantsoaNyHajaHarilala_2025_protected_compressed.pdf) 
+
+<p align="center">***Thank you for visiting my git!***</p>
+
+> ### **Contact**
+> 🏠 Cité Internationale   
+> 97490 Saint-Denis La Réunion (France)  
+> ✉️ [jrayan.mitantsoanyhaja@gmail.com](mailto:jrayan.mitantsoanyhaja@gmail.com)
+>   
+> 📞 +262 693 81 23 59  
+> 
+>  <a href="https://www.facebook.com/profile.php?id=61571394063716">
+>   <img src="https://img.freepik.com/psd-gratuit/conception-du-logo-medias-sociaux_23-2151296987.jpg?semt=ais_hybrid&w=740" alt="Facebook" width="28" />
+>   Jonathan Rayan Rower
+> </a>
