@@ -17,7 +17,7 @@
 
 During this internship, my primary responsibility was to implement and evaluate an automatic shoreline detection method at the scale of Réunion Island using the open-source [**Shoreline Analysis and Extraction Tool**](https://github.com/jpalomav/SAET_master) (SAET). This project marks the first application of SAET in this specific geomorphological context, aiming to extract time series of shoreline positions from satellite imagery and adapt the methodology to the island’s complex coastal environments.
 
-The internship was funded by CNRS, providing a monthly stipend of 659 euros for a 35-hour work week at [**OSU-Reunion**](https://www.osureunion.fr/).
+The internship was funded by CNRS, providing a monthly stipend of XXXX euros for a 35-hour work week at [**OSU-Reunion**](https://www.osureunion.fr/).
 
 [**SAET**](https://github.com/jpalomav/SAET_master) is available on GitHub and involves a dedicated setup process using Bash or CMD commands and virtual environment configuration, all detailed in this repository.
 
