@@ -63,7 +63,7 @@ Access to certain documents is restricted and requires the following activation 
 
 These credentials are provided to ensure controlled access to sensitive or preliminary materials. Please use them accordingly to review the documents.
 
-<p align="center">***Thank you for visiting my git!***</p>
+<p align="center">*** THANK YOU FOR VISITING MY GIT ! ***</p>
 
 > ### **Contact**
 > 🏠 3, Rue Pitel   
