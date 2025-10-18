@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"name": "Releve_terrain",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2154" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 2, "Nom": "Nez de jobourg" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 343451.890055926924106, 6963729.145977078936994 ] ] } },
+{ "type": "Feature", "properties": { "id": 5, "Nom": "Port racine" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 346827.781811688968446, 6967974.89894060138613 ] ] } },
+{ "type": "Feature", "properties": { "id": 4, "Nom": "Goury" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 343297.986921351985075, 6968539.060876765288413 ] ] } },
+{ "type": "Feature", "properties": { "id": 1, "Nom": "Cape du Rozel" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 348843.528797819919419, 6941365.35135655850172 ] ] } },
+{ "type": "Feature", "properties": { "id": 3, "Nom": "Bain d'écalgrain" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 343889.462309409340378, 6965718.335996466688812 ] ] } },
+{ "type": "Feature", "properties": { "id": 4, "Nom": "Sainte Vaast-la-hougue" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 391025.907501813140698, 6950441.134799681603909 ] ] } },
+{ "type": "Feature", "properties": { "id": 3, "Nom": "Le phare de gatteville" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 391830.566746017197147, 6963430.895698245614767 ] ] } },
+{ "type": "Feature", "properties": { "id": 1, "Nom": "L'anse de brick" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 376223.734817032585852, 6961697.460582164116204 ] ] } },
+{ "type": "Feature", "properties": { "id": 2, "Nom": "L'anse de la mondrée" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 378686.426633374416269, 6963744.760088103823364 ] ] } }
+]
+}
