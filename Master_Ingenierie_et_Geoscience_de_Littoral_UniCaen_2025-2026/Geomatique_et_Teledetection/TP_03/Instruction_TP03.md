@@ -4,8 +4,8 @@ Bienvenue dans ce dépôt dédié aux **travaux pratiques de géomatique et tél
 
 ---
 
-## Objectif du TP
-Ce projet a pour objectif de **traiter, analyser et représenter** des données géospatiales à l’aide de **Python** et de l’outil **QGIS**, dans le cadre d’une étude appliquée à la **morphologie du Cotentin**.
+## Objectif du TP 03 : TP3 - Etude morphologique du littoral du nord Cotentin (comparaison Est/Ouest)
+Analyser la diversité morphologique du **littoral du nord Cotentin** à partir de données topographiques, afin de relier les formes de relief aux types de côtes. .
 
 ---
 
