@@ -27,6 +27,7 @@ Le programme comprend :
 - la **génération des couches thématiques**,  
 - et la **production automatique des cartes** prêtes à l’intégration dans QGIS.
 
+En raison de la faible capacité de mon ordinateur, l’utilisation de QGIS est limitée pour le traitement de gros volumes de données. Cependant, j’utilise QGIS pour les traitements spécifiques qui ne peuvent pas être réalisés avec Python.
 ---
 
 ## Fichiers et résultats
