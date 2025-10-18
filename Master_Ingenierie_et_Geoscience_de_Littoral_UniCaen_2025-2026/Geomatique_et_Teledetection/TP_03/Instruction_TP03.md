@@ -1,3 +1,11 @@
+<p align="center">
+  <img src="https://github.com/Nathan17reunion/PyDSAS_Reunion_Island/blob/main/images/fac_sciences_univ_reunion.png" alt="Logo 6" width="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/Nathan17reunion/PyDSAS_Reunion_Island/blob/main/images/fac_sciences_univ_reunion.png" alt="Logo 6" width="180"/>
+</p>
+
 # Travaux Pratiques de **Géomatique et Télédétection**
 
 Bienvenue dans ce dépôt dédié aux **travaux pratiques de géomatique et télédétection**, réalisés dans le cadre du **Master en Ingénierie et Géosciences du Littoral** — *Université de Caen (2025–2026)*.
