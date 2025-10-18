@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://github.com/Nathan17reunion/PyDSAS_Reunion_Island/blob/main/images/fac_sciences_univ_reunion.png" alt="Logo 6" width="180"/>
+  <img src="https://github.com/Nathan17reunion/Stage_RE_EspaceDev_2025_MITANTSOA/blob/main/Master_Ingenierie_et_Geoscience_de_Littoral_UniCaen_2025-2026/Geomatique_et_Teledetection/logos-Marianne-UNICAEN-scaled.jpg" alt="Logo 6" width="220"/>
 </p>
 
 <p align="center">
-  <img src="https://github.com/Nathan17reunion/PyDSAS_Reunion_Island/blob/main/images/fac_sciences_univ_reunion.png" alt="Logo 6" width="180"/>
+  <img src="https://github.com/Nathan17reunion/Stage_RE_EspaceDev_2025_MITANTSOA/blob/main/Master_Ingenierie_et_Geoscience_de_Littoral_UniCaen_2025-2026/Geomatique_et_Teledetection/label-projet-etudiant-blanc.png" alt="Logo 6" width="220"/>
 </p>
 
 # Travaux Pratiques de **Géomatique et Télédétection**
@@ -41,12 +41,18 @@ Le projet QGIS comprenant la structuration des couches, les styles et les compos
 
 🗂️ [**Ouvrir le projet QGIS**](https://github.com/Nathan17reunion/Stage_RE_EspaceDev_2025_MITANTSOA/blob/main/Master_Ingenierie_et_Geoscience_de_Littoral_UniCaen_2025-2026/Geomatique_et_Teledetection/TP_03/TP3_Cotentin_morpho.qgz)
 
----
+<p align="center">*** THANK YOU FOR VISITING MY GIT ! ***</p>
 
-## Contact
-**Jonathan MITANTSOA NY HAJA HARILALA**  
-Master 1 — Parcours *Sciences de la terre*  
-Spécialité : *Ingeniérie et géoscience de Littoral*  
-Université de Caen Normandie  
+> ### **Contact**
+> 🏠 Village Le Val   
+> 14123 IFS (France)  
+> ✉️ [jrayan.mitantsoanyhaja@gmail.com](mailto:jrayan.mitantsoanyhaja@gmail.com)
+>   
+> 📞 +33 (0)7 26 19 86  
+> 
+>  <a href="https://www.facebook.com/profile.php?id=61571394063716">
+>   <img src="https://img.freepik.com/psd-gratuit/conception-du-logo-medias-sociaux_23-2151296987.jpg?semt=ais_hybrid&w=740" alt="Facebook" width="28" />
+>   Jonathan Rayan Rower
+> </a>
 
 ---
