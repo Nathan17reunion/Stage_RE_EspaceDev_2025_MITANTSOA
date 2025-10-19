@@ -50,7 +50,7 @@ en reliant les observations morphologiques réalisées au TP précédent et sur 
 - **La géologie** : nature et résistance des roches, structure du substrat  
 - **Les conditions hydrodynamiques** : houle, marée, exposition
 
-Le présent compte rendu, accompagné des données et images disponibles dans le dépôt référencé [**ici**](https://mega.nz/folder/SfpVTbIK#WRTuiqx9OcEB92H_eGzqsw), propose une carte interactive dynamique en format HTML illustrant la nature du trait de côte et la vitesse des courants marins dans la zone d’étude. Cette carte visualise l’impact des forçages marins sur chaque site d’étude au sein d’une zone d’influence de 2000 mètres de rayon.
+Le présent [**compte rendu**](https://1drv.ms/w/c/bab153b379890ae1/ERjW8R07xGZCiLeS48fyW9cBSE8FIUgyxnyKFY02Hpf1Ow?e=OLlmXf), accompagné des données et images disponibles dans le dépôt référencé [**ici**](https://mega.nz/folder/SfpVTbIK#WRTuiqx9OcEB92H_eGzqsw), propose une carte interactive dynamique en format HTML illustrant la nature du trait de côte et la vitesse des courants marins dans la zone d’étude. Cette carte visualise l’impact des forçages marins sur chaque site d’étude au sein d’une zone d’influence de 2000 mètres de rayon.
 
 Le choix d’un rayon de 2000 mètres s’explique par la prise en compte que certains forçages marins, tels que les courants et la houle, ont des effets qui s’étendent au-delà de la simple façade côtière immédiate. Cette distance permet ainsi de couvrir la zone d’influence potentielle des plages et d’appréhender la vulnérabilité réelle à différentes échelles spatiales, tout en simplifiant la jointure complexe entre données côtières et sites ponctuels.
 
