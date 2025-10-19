@@ -60,9 +60,6 @@ Cette approche améliore considérablement la cartographie des aléas littoraux 
 
 À ce jour, les projets PPRL restent très limités voire absents dans cette zone spécifique, malgré la disponibilité d’études scientifiques approfondies. La carte interactive proposée offre ainsi une interface accessible et précise pouvant alimenter la réflexion et l’action publique pour la restauration, la prévention et la gestion durable du littoral. 
 
-
-[**ici**](https://mega.nz/folder/SfpVTbIK#WRTuiqx9OcEB92H_eGzqsw)
-
 ---
 
 <p align="center">*** THANK YOU FOR VISITING MY GIT ! ***</p>
