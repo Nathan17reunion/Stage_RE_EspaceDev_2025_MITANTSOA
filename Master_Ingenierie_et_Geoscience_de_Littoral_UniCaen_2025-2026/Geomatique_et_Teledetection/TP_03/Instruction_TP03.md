@@ -60,6 +60,8 @@ Cette approche améliore considérablement la cartographie des aléas littoraux 
 
 À ce jour, les projets PPRL restent très limités voire absents dans cette zone spécifique, malgré la disponibilité d’études scientifiques approfondies. La carte interactive proposée offre ainsi une interface accessible et précise pouvant alimenter la réflexion et l’action publique pour la restauration, la prévention et la gestion durable du littoral. 
 
+La carte du marnage, établie en fonction du coefficient de marée, est disponible sous forme de couche HTML accessible [**ici**](https://mega.nz/file/DfI0nRYL#Vmhsj-Pnky0eF-WuQkKnit51YsX_o5OBtRa7VBck9ss) 
+
 ---
 
 <p align="center">*** THANK YOU FOR VISITING MY GIT ! ***</p>
