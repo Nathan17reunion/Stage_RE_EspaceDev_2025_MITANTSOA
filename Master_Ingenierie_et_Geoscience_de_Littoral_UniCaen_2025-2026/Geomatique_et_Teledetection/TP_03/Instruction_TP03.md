@@ -42,9 +42,15 @@ Le projet QGIS comprenant la structuration des couches, les styles et les compos
 
 🗂️ [**Ouvrir le projet QGIS**](https://github.com/Nathan17reunion/Stage_RE_EspaceDev_2025_MITANTSOA/blob/main/Master_Ingenierie_et_Geoscience_de_Littoral_UniCaen_2025-2026/Geomatique_et_Teledetection/TP_03/TP3_Cotentin_morpho.qgz)
 
-## Objectif du TP 03 bis : comprendre pourquoi les paysages littoraux diffèrent entre la côte ouest et la côte est du Cotentin, en reliant les observations morphologiques réalisées au TP précédent et sur le terrain à deux grands facteurs :
- la géologie (nature et résistance des roches, structure du substrat),
- les conditions hydrodynamiques (houle, marée, exposition).
+## 🎯 Objectif du TP 03 bis
+
+Comprendre pourquoi les paysages littoraux diffèrent entre la côte ouest et la côte est du Cotentin,  
+en reliant les observations morphologiques réalisées au TP précédent et sur le terrain à deux grands facteurs :
+
+- **La géologie** : nature et résistance des roches, structure du substrat  
+- **Les conditions hydrodynamiques** : houle, marée, exposition
+
+---
 
 <p align="center">*** THANK YOU FOR VISITING MY GIT ! ***</p>
 
