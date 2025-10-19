@@ -42,13 +42,26 @@ Le projet QGIS comprenant la structuration des couches, les styles et les compos
 
 🗂️ [**Ouvrir le projet QGIS**](https://github.com/Nathan17reunion/Stage_RE_EspaceDev_2025_MITANTSOA/blob/main/Master_Ingenierie_et_Geoscience_de_Littoral_UniCaen_2025-2026/Geomatique_et_Teledetection/TP_03/TP3_Cotentin_morpho.qgz)
 
-## 🎯 Objectif du TP 03 bis
+##  Objectif du TP 03 bis
 
 Comprendre pourquoi les paysages littoraux diffèrent entre la côte ouest et la côte est du Cotentin,  
 en reliant les observations morphologiques réalisées au TP précédent et sur le terrain à deux grands facteurs :
 
 - **La géologie** : nature et résistance des roches, structure du substrat  
 - **Les conditions hydrodynamiques** : houle, marée, exposition
+
+Le présent compte rendu, accompagné des données et images disponibles dans le dépôt référencé [**ici**](https://mega.nz/folder/SfpVTbIK#WRTuiqx9OcEB92H_eGzqsw), propose une carte interactive dynamique en format HTML illustrant la nature du trait de côte et la vitesse des courants marins dans la zone d’étude. Cette carte visualise l’impact des forçages marins sur chaque site d’étude au sein d’une zone d’influence de 2000 mètres de rayon.
+
+Le choix d’un rayon de 2000 mètres s’explique par la prise en compte que certains forçages marins, tels que les courants et la houle, ont des effets qui s’étendent au-delà de la simple façade côtière immédiate. Cette distance permet ainsi de couvrir la zone d’influence potentielle des plages et d’appréhender la vulnérabilité réelle à différentes échelles spatiales, tout en simplifiant la jointure complexe entre données côtières et sites ponctuels.
+
+La carte interactive de la nature du trait de côte est disponible [**ici**](https://mega.nz/file/mOwGnBRA#aW5bNzjYoDu8ypMTwdHUf7FlvfxONFT_cTOY5L1nMtQ), et celle des vitesses maximales des courants marins est accessible [**ici**](https://mega.nz/file/PT5AWDiQ#BI7HrxA-GqSO25z1R_3SE3oIuUcoXM2Pzf0sJkujyD4).
+
+Cette approche améliore considérablement la cartographie des aléas littoraux en donnant une représentation spatiale qui intègre à la fois les caractéristiques du trait de côte et les paramètres hydrodynamiques marins. Elle facilite aussi la nette identification des zones vulnérables et peut servir d’outil décisionnel à destination des collectivités territoriales.
+
+À ce jour, les projets PPRL restent très limités voire absents dans cette zone spécifique, malgré la disponibilité d’études scientifiques approfondies. La carte interactive proposée offre ainsi une interface accessible et précise pouvant alimenter la réflexion et l’action publique pour la restauration, la prévention et la gestion durable du littoral. 
+
+
+[**ici**](https://mega.nz/folder/SfpVTbIK#WRTuiqx9OcEB92H_eGzqsw)
 
 ---
 
